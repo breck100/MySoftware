@@ -1,4 +1,4 @@
-
+#two methods after merge
 def welcome():
   print("New screen")
 
