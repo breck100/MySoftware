@@ -5,4 +5,5 @@ def welcome():
 def click():
   print("Click")
 
-  
+welcome()
+click()
